@@ -2,5 +2,5 @@ print "hello world"
 
 print "good night"
 
-msg= "status"
+msg= "status!!!"
 print msg
